@@ -1,0 +1,7 @@
+*******************************************
+Name:		Anirudh
+Class:		CS30S
+Assignment:	Simple Array Example
+*******************************************
+
+end of proecessing
